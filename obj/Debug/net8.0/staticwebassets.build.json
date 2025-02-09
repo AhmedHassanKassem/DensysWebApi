@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wjPf3Uglga4imDioKSPZnyQViZZA/oNtwlrYsZLPaUA=",
+  "Source": "DensysWebApi",
+  "BasePath": "_content/DensysWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
