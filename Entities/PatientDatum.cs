@@ -26,14 +26,11 @@ public partial class PatientDatum
 }
 public partial class PatientDatumDto
 {
-
      public int id_doctor { get; set; }
     public int patient_no { get; set; }
     public int patient_age { get; set; }
     public string name { get; set; } = null!;
     public double price { get; set; }
-  
-
     public string patient_gender { get; set; } = null!;
     public string chronic_disease { get; set; } = null!;
     public string phone_1 { get; set; } = null!;

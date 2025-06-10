@@ -5532,19 +5532,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mr.Developer\\.nuget\\packages\\": {}
+    "/home/ahmed/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mr.Developer\\Documents\\GitHub\\DensysWebApi\\DensysWebApi.csproj",
+      "projectUniqueName": "/home/ahmed/Desktop/DensysWebApi/DensysWebApi.csproj",
       "projectName": "DensysWebApi",
-      "projectPath": "C:\\Users\\Mr.Developer\\Documents\\GitHub\\DensysWebApi\\DensysWebApi.csproj",
-      "packagesPath": "C:\\Users\\Mr.Developer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mr.Developer\\Documents\\GitHub\\DensysWebApi\\obj\\",
+      "projectPath": "/home/ahmed/Desktop/DensysWebApi/DensysWebApi.csproj",
+      "packagesPath": "/home/ahmed/.nuget/packages/",
+      "outputPath": "/home/ahmed/Desktop/DensysWebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mr.Developer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ahmed/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5629,7 +5629,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/ahmed/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

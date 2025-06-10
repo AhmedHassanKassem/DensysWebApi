@@ -34,7 +34,7 @@ app.UseCors("AllowFrontend");
 app.UseCors(cors => cors
 	.AllowAnyHeader()
 	.AllowAnyMethod()
-	.WithOrigins("http://localhost:3000")
+	.WithOrigins("http://localhost:3000", "http://localhost:5173")
 	// .WithOrigins("http://162.216.112.217:80")
 	.AllowCredentials());
 app.MapControllers();
